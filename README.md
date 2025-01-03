@@ -13,6 +13,7 @@ In this project, an Azure SQL Database was deployed and secured with Microsoft D
 - <b>Azure</b>
 - <b>JSON</b>
 - <b>Azure SQL Database</b>
+- <b>SQL Server</b>
 - <b>Azure Defender for SQL</b> 
 - <b>Data Discovery and Classification</b>
 - <b>Auditing<b>
